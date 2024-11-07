@@ -109,7 +109,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   sizeValue: 0.5
-  identifier: 1
+  identifier: 2
 --- !u!136 &8294382492098155465
 CapsuleCollider:
   m_ObjectHideFlags: 0

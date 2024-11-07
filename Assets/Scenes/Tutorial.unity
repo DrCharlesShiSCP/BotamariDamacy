@@ -2868,6 +2868,10 @@ PrefabInstance:
       propertyPath: centerObject
       value: 
       objectReference: {fileID: 5781414616824247251}
+    - target: {fileID: 4128861955332573200, guid: 01a1827bb12271a4d8baeaf1ea4b214d, type: 3}
+      propertyPath: orbitDistance
+      value: 0.2
+      objectReference: {fileID: 0}
     - target: {fileID: 4316527006085315065, guid: 01a1827bb12271a4d8baeaf1ea4b214d, type: 3}
       propertyPath: m_IsActive
       value: 0

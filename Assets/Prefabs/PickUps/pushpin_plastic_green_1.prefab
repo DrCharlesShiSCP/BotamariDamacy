@@ -102,7 +102,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   sizeValue: 1
-  identifier: 1
+  identifier: 7
 --- !u!65 &2580959788734807616
 BoxCollider:
   m_ObjectHideFlags: 0
